@@ -2,8 +2,8 @@
 vm get sample(finder, serach index etc..)
 
 ## output
-```go
-go run main.go
+```sh
+> go run main.go
 from name
 name: DC0_H0_VM0, path: /DC0/vm/DC0_H0_VM0, mo-id: VirtualMachine:vm-54
 from folder name
